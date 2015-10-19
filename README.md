@@ -1,4 +1,0 @@
-MS
-==
-
-Microsoft
